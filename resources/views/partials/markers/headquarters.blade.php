@@ -1,0 +1,2 @@
+Approximate Tournament <br> Headquarters Location <br>
+<a href="https://www.google.com/maps/dir/?api=1&destination={{ $tournament->latitude }},{{ $tournament->longitude }}" target="_blank">Directions</a>
